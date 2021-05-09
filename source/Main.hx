@@ -18,7 +18,7 @@ class Main extends Sprite {
 		super();
 		Configure.initAnalytics(false);
 
-		var startingState:Class<FlxState> = SplashScreenState;
+		var startingState:Class<FlxState> = MainMenuState;
 		#if play
 		startingState = PlayState;
 		#else

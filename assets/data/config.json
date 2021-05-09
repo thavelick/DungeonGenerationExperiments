@@ -23,22 +23,9 @@
 	"credits": {
 		"sections": [
 			{
-				"sectionName": "Art",
-				"names": [
-					"Erik Meredith"
-				]
-			},
-			{
-				"sectionName": "Music composition and SFX",
-				"names": [
-					"Tanner Moore"
-				]
-			},
-			{
 				"sectionName": "Programming",
 				"names": [
-					"Logan Moore",
-					"Mike Wingfield"
+					"Tristan Havelick"
 				]
 			}
 		]

@@ -1,6 +1,6 @@
 package;
 
-import states.SplashScreenState;
+import states.PlayState;
 import misc.Macros;
 import states.MainMenuState;
 import flixel.FlxState;
